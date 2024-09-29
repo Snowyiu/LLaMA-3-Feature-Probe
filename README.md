@@ -23,7 +23,7 @@ setup.py
 
 1. Clone this repository:
 ```
-git clone https://github.com/yourusername/llama-feature-analysis.git
+git clone https://github.com/Snowyiu/LLaMA-3-Feature-Probe.git
 cd llama-feature-analysis
 ```
 2. Set up a Python environment:
